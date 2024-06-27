@@ -3,9 +3,11 @@ body{
     color: #434455;
     background-color: #fff;
 }
+
 ul, ol{
     list-style: none;
 }
+
 a{
     text-decoration: none;
 }
@@ -19,9 +21,11 @@ a{
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .header-logo .header-logo-part{
     color:  #2e2f42;
 }
+
 .nav-link{
     font-weight: 500;
     font-size: 16px;
@@ -33,24 +37,29 @@ a{
 .contacts{
     font-style: normal;
 }
+
 .contacts-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
 }
+
 .section-one{
     background-color: #2e2f42;
 }
+
 .section-one-button{
     cursor: pointer;
 }
+
 .section-one-header{
     font-weight: 700;
     font-size: 56px;
@@ -59,6 +68,7 @@ a{
     text-align: center;
     color: #fff;
 }
+
 .section-one-button{
     background-color: #4d5ae5;
     font-weight: 500;
@@ -67,10 +77,12 @@ a{
     letter-spacing: 0.04em;
     color: #fff;
 }
+
 .section-one-button:hover,
 .section-one-button:focus{
     background-color: #404bbf;
 }
+
  .section-two-item-header{
     font-weight: 500;
     font-size: 20px;
@@ -78,6 +90,7 @@ a{
     letter-spacing: 0.02em;
     color: #2e2f42;
  }
+
 .section-two-item-text{
     font-weight: 400;
     font-size: 16px;
@@ -85,9 +98,11 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .section-three{
     background-color: #f4f4fd;
 }
+
 .section-three-header{
     font-weight: 700;
     font-size: 36px;
@@ -97,9 +112,14 @@ a{
     text-align: center;
     color: #2e2f42;
 }
+
 .section-three{
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
+.section-three-list{
+background-color: #FFFFFF;
+}
+
 .section-three-item-header{
     font-weight: 500;
     font-size: 20px;
@@ -108,6 +128,7 @@ a{
     text-align: center;
     color: #2e2f42;
 }
+
 .section-three-item-text{
     font-weight: 400;
     font-size: 16px;
@@ -116,6 +137,7 @@ a{
     text-align: center;
     color: #434455;
 }
+
 .section-four-header{
     font-weight: 700;
     font-size: 36px;
@@ -125,6 +147,7 @@ a{
     text-align: center;
     color: #2e2f42;
 }
+
 .section-four-item-header{
     font-weight: 500;
     font-size: 20px;
@@ -132,6 +155,7 @@ a{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+
 .section-four-item-text{
     font-weight: 400;
     font-size: 16px;
@@ -139,9 +163,11 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
 .footer-page{
    background-color: #2e2f42; 
 }
+
 .footer-logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -151,9 +177,11 @@ a{
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .footer-logo-part{
     color: #f4f4fd;
 }
+
 .footer-text{
 font-weight: 400;
 font-size: 16px;
