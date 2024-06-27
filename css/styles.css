@@ -48,6 +48,9 @@ a{
 .section-one{
     background-color: #2e2f42;
 }
+.section-one-button{
+    cursor: pointer;
+}
 .section-one-header{
     font-weight: 700;
     font-size: 56px;
@@ -57,7 +60,6 @@ a{
     color: #fff;
 }
 .section-one-button{
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -83,13 +85,20 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
 }
+.section-three{
+    background-color: #f4f4fd;
+}
 .section-three-header{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
+}
+.section-three{
+    background-color: #FFFFFF;
 }
 .section-three-item-header{
     font-weight: 500;
@@ -112,6 +121,7 @@ a{
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
 }
@@ -133,14 +143,22 @@ a{
    background-color: #2e2f42; 
 }
 .footer-logo{
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
 .footer-logo-part{
     color: #f4f4fd;
+}
+.footer-text{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
 
